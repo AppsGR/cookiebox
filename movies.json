@@ -1,0 +1,24 @@
+{
+  "moviz":[
+    {
+      "id":"1",
+      "name": "f1",
+      "image": "https:image"
+    },
+    {
+      "id":"2",
+      "name": "f2",
+      "image": "https:image"
+    },
+    {
+      "id":"3",
+      "name": "f3",
+      "image": "https:image"
+    },
+    {
+      "id":"4",
+      "name": "f4",
+      "image": "https:image"
+    }
+    ]
+}
