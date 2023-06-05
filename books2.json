@@ -1,37 +1,37 @@
 [
     {
         "title": "Answer to half million letters",
-        "author": "https://github.com/AppsGR/cookiebox/raw/main/Books/Answer-to-half-million-letters-english.pdf",
-        "image": "https://wp.en.aleteia.org/wp-content/uploads/sites/2/2020/09/WEB3-CROSS-SUNRISE-SUN-RAY-LIGHT-JESUS-shutterstock_366834113.jpg?quality=100&strip=all"
-    },
-    {
-        "title": "Christ on the Jewish Road",
-        "author": "https://github.com/AppsGR/cookiebox/raw/main/Books/Christ-on-the-Jewish-Road-english.pdf",
-        "image": "https://www.orbcfamily.org/site/wp-content/uploads/2019/04/Depositphotos_225669932_s-2019.jpg"
-    },
-    {
-        "title": "From turture to Triumph",
-        "author": "https://github.com/AppsGR/cookiebox/raw/main/Books/From-Torture-to-Triumph-English.pdf",
-        "image": "https://img.freepik.com/free-vector/vintage-religious-original-cross-template_225004-1272.jpg?w=2000"
-    },
-    {
-        "title": "From the lips of Childern",
-        "author": "https://github.com/AppsGR/cookiebox/raw/main/Books/From-the-lips-of-children-english.pdf",
-        "image": "https://iheartcraftythings.com/wp-content/uploads/2021/04/Cross-DRAWING-%E2%80%93-STEP-10.jpg"
-    },
-    {
-        "title": "Abraham the father of all Believers",
-        "author": "https://github.com/AppsGR/cookiebox/raw/main/Books/abraham-the-father-of-all-believers-English.pdf",
-        "image": "https://i.swncdn.com/media/800w/cms/CW/faith/66864-cross-sunset-gettyimages-chaiyapruek2520.1200w.tn.jpg"
-    },
-    {
-        "title": "Richard and Sabina Wurmbrand biographies",
-        "author": "https://github.com/AppsGR/cookiebox/raw/main/Books/richard-and-sabina-wurmbrand-biographies.pdf",
-        "image": "https://s.abcnews.com/images/US/cross-gty-001-jpo-190430_hpMain_4x5_992.jpg"
+        "author": "https://github.com/AppsGR/cookiebox/raw/main/English/Answer%20to%20half%20million%20letters.pdf",
+        "image": "https://github.com/AppsGR/cookiebox/raw/main/English/Answer%20to%20half%20million%20Letters_cover.png"
     },
     {
         "title": "Christ on the Jewish Road",
         "author": "https://github.com/AppsGR/cookiebox/raw/main/English/Christ%20on%20the%20Jewish%20Road.pdf",
-        "image": "https://drive.google.com/uc?id=1llq7w911B05Nxh2KdoUJAVHjVeTJ9SxI"
+        "image": "https://github.com/AppsGR/cookiebox/raw/main/English/Christ on the Jewish Road_cover.png"
+    },
+    {
+        "title": "From turture to Triumph",
+        "author": "https://github.com/AppsGR/cookiebox/raw/main/English/From torture to Triumph.pdf",
+        "image": "https://github.com/AppsGR/cookiebox/raw/main/English/From%20torture%20to%20Triumph_cover.png"
+    },
+    {
+        "title": "From the lips of Childern",
+        "author": "https://github.com/AppsGR/cookiebox/raw/main/English/From the lips of Childern.pdf",
+        "image": "https://github.com/AppsGR/cookiebox/raw/main/English/From the lips of Childern_cover.png"
+    },
+    {
+        "title": "Abraham the father of all Believers",
+        "author": "https://github.com/AppsGR/cookiebox/raw/main/English/Abraham%20Father%20of%20all%20Believers.pdf",
+        "image": "https://github.com/AppsGR/cookiebox/raw/main/English/Abraham%20Father%20of%20all%20Belivers_cover.png"
+    },
+    {
+        "title": "Richard and Sabina Wurmbrand biographies",
+        "author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard_and_Sabina_Wurmbrand_biographies.pdf",
+        "image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard and Sabina Wurmbrand biographies_cover.png"
+    },
+    {
+        "title": "Confessions",
+        "author": "https://media.githubusercontent.com/media/AppsGR/cookiebox/main/English/Confessions-St_Augustine.pdf",
+        "image": "https://github.com/AppsGR/cookiebox/raw/main/English/Confessions-St_Augustine-cover.png"
     }
 ]
