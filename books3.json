@@ -20,7 +20,14 @@
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20alive-to-wonder-en.pdf",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20alive-to-wonder-en_cover.png",
 		"language": "2"
-},
+	},
+
+	{
+		"title": "EPUB Alive to wonder",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20alive-to-wonder-en.epub",
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20alive-to-wonder-en_cover.png",
+		"language": "2"
+	},
 
 	{
 		"title": "An All-Consuming Passion for Jesus",
@@ -41,7 +48,7 @@
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20charles-spurgeon-en.pdf",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20charles-spurgeon-en_cover.png",
 		"language": "5"
-},
+	},
 
 	{
 		"title": "Disability and the Sovereign Goodness of God",
@@ -55,14 +62,14 @@
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20killjoys-en.pdf",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20killjoys-en_cover.png",
 		"language": "7"
-},
+	},
 
 	{
 		"title": "Love to the Uttermost",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20love-to-the-uttermost-en.pdf",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20love-to-the-uttermost-en_cover.png",
 		"language": "8"
-},
+	},
 
 	{
 		"title": "Mom enough",
@@ -77,14 +84,14 @@
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20sanctification-in-the-everyday-en.pdf",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20sanctification-in-the-everyday-en_cover.png",
 		"language": "10"
-},
+	},
 
 	{
 		"title": "Still not Professionals",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20still-not-professionals-en.pdf",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20still-not-professionals-en_cover.png",
 		"language": "11"
-},
+	},
 
 	{
 		"title": "Take care how you listen",
@@ -105,14 +112,14 @@
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-pilgrim-s-progress-en.pdf",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-pilgrim-s-progress-en_cover.png",
 		"language": "14"
-},
+	},
 
 	{
 		"title": "Think it not strange",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20think-it-not-strange-en.pdf",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20think-it-not-strange-en_cover.png",
 		"language": "15"
-},
+	},
 
 	{
 		"title": "Your sorrow will turn to joy",
