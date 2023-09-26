@@ -2,153 +2,195 @@
 	{
 		"title": "A Tribute to My Father",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20a-tribute-to-my-father-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20a-tribute-to-my-father-en_cover.png"
-	},
-
-	//TODO: Remove the word EPUB from the title: 
-	{
-		"title": "EPUB A Tribute to My Father",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20a-tribute-to-my-father-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20a-tribute-to-my-father-en_cover.png",
-		"language": "1"
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Alive to wonder",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20alive-to-wonder-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20alive-to-wonder-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20alive-to-wonder-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "An All-Consuming Passion for Jesus",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Captive to Glory",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20captive-to-glory-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20captive-to-glory-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20captive-to-glory-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Charles Spurgeon",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20charles-spurgeon-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20charles-spurgeon-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20charles-spurgeon-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Disability and the Sovereign Goodness of God",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20disability-and-the-sovereign-goodness-of-god-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20disability-and-the-sovereign-goodness-of-god-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20disability-and-the-sovereign-goodness-of-god-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "KILLJOYS",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20killjoys-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20killjoys-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20killjoys-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{	
 		"title": "Love to the Uttermost",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20love-to-the-uttermost-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20love-to-the-uttermost-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20love-to-the-uttermost-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Mom enough",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20mom-enough-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20mom-enough-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20mom-enough-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 
 	{
 		"title": "Sanctification in the everyday",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20sanctification-in-the-everyday-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20sanctification-in-the-everyday-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20sanctification-in-the-everyday-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Still not Professionals",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20still-not-professionals-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20still-not-professionals-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20still-not-professionals-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Take care how you listen",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20take-care-how-you-listen-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20take-care-how-you-listen-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20take-care-how-you-listen-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "The marks of a Spiritual leader",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-marks-of-a-spiritual-leader-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-marks-of-a-spiritual-leader-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-marks-of-a-spiritual-leader-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "The Pilgrim's Progress",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-pilgrim-s-progress-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-pilgrim-s-progress-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-pilgrim-s-progress-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Think it not strange",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20think-it-not-strange-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20think-it-not-strange-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20think-it-not-strange-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Your sorrow will turn to joy",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20your-sorrow-will-turn-to-joy-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20your-sorrow-will-turn-to-joy-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20your-sorrow-will-turn-to-joy-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Exposing the dark work of Abortion",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20exposing-the-dark-work-of-abortion-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20exposing-the-dark-work-of-abortion-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20exposing-the-dark-work-of-abortion-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 
 	{
 		"title": "Answer to half million letters",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Answer%20to%20half%20million%20letters.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Answer%20to%20half%20million%20Letters_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Answer%20to%20half%20million%20Letters_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 	{
 		"title": "Christ on the Jewish Road",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Christ%20on%20the%20Jewish%20Road.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Christ on the Jewish Road_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Christ on the Jewish Road_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 	{
 		"title": "From turture to Triumph",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From torture to Triumph.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From%20torture%20to%20Triumph_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From%20torture%20to%20Triumph_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 	{
 		"title": "From the lips of Childern",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From the lips of Childern.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From the lips of Childern_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From the lips of Childern_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 	{
 		"title": "Abraham the father of all Believers",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Abraham%20Father%20of%20all%20Believers.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Abraham%20Father%20of%20all%20Belivers_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Abraham%20Father%20of%20all%20Belivers_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 	{
 		"title": "Richard and Sabina Wurmbrand biographies",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Richard_and_Sabina_Wurmbrand_biographies.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Richard and Sabina Wurmbrand biographies_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Richard and Sabina Wurmbrand biographies_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 	{
 		"title": "Confessions",
 		"author": "https://media.githubusercontent.com/media/AppsGR/cookiebox/main/English/Confessions-St_Augustine.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Confessions-St_Augustine-cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Confessions-St_Augustine-cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	},
 	
 	{
 		"title": "A Tribute to My Father",
 		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20a-tribute-to-my-father-en.epub",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20a-tribute-to-my-father-en_cover.png"
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20a-tribute-to-my-father-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".pdf"
 	}
 ]
