@@ -1,178 +1,105 @@
 [
 	{
-		"title": "Alive to wonder",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20alive-to-wonder-en.epub",
+		"title": "Bijbelgeloof en Bijbelkritiek",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Bijbelgeloof_en_Bijbelkritiek-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20alive-to-wonder-en_cover.png",
 		"language": "2",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "An all-Consuming Passion for Jesus",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en.epub",
+		"title": "De Bijbel Gods Woord",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20De_Bijbel_Gods_Woord_derde_druk-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en_cover.png",
 		"language": "2",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "Captive to Glory",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20captive-to-glory-en.epub",
+		"title": "De heldenstrijd der Camisarden",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20De_heldenstrijd_der_Camisarden-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20captive-to-glory-en_cover.png",
 		"language": "2",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "Charles Spurgeon",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20charles-spurgeon-en.epub",
+		"title": "Een kwestie van smaak",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Een_kwestie_van_smaak-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20charles-spurgeon-en_cover.png",
 		"language": "2",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "Disability and the Sovereign Goodness of God",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20disability-and-the-sovereign-goodness-of-god-en.epub",
+		"title": "Hemelsche werkelijkheden",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Hemelse_werkelijkheden-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20disability-and-the-sovereign-goodness-of-god-en_cover.png",
 		"language": "1",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "KILLJOYS",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20killjoys-en.epub",
+		"title": "Het Wonder",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Het%20Wonder-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20killjoys-en_cover.png",
 		"language": "1",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "Love to the Uttermost",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20love-to-the-uttermost-en.epub",
+		"title": "Op de galeien",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Op_de_galeien-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20love-to-the-uttermost-en_cover.png",
 		"language": "1",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "Mom enough",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20mom-enough-en.epub",
+		"title": "Salomo Daniel en de hope Israels",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Salomo_Daniel_en_de_hope_Israels-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20mom-enough-en_cover.png",
 		"language": "1",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "Sanctification in the everyday",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20sanctification-in-the-everyday-en.epub",
+		"title": "Symboliek der schepping",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Symboliek%20der%20schepping-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20sanctification-in-the-everyday-en.epub",
 		"language": "1",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "Still not Professionals",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20still-not-professionals-en.epub",
+		"title": "Twijfel",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Twijfel-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20still-not-professionals-en_cover.png",
 		"language": "1",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "Take care how you listen",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20take-care-how-you-listen-en.epub",
+		"title": "Uit Israels geschiedenis",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Uit_Israels_geschiedenis-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20take-care-how-you-listen-en_cover.png",
 		"language": "1",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "The marks of a Spiritual leader",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20the-marks-of-a-spiritual-leader-en.epub",
+		"title": "Wat dunkt u van de Christus 4e editie",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20EPUB/JF%20Bettex%20-%20Wat_dunkt_u_van_de_Christus_vierde_druk-en.epub",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-marks-of-a-spiritual-leader-en_cover.png",
 		"language": "1",
 		"fileExtension" : ".epub"
 	},
 
 	{
-		"title": "The Pilgrim's Progress",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20the-pilgrim-s-progress-en.epub",
+		"title": "Het Boek der Waarheid",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/NL/Jean%20Frederic%20Bettex/Jean%20Frederic%20Bettex%20-%20PDF/JF%20Bettex%20-%20Het_Boek_der_Waarheid-en.pdf",
 		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20the-pilgrim-s-progress-en_cover.png",
 		"language": "1",
 		"fileExtension" : ".epub"
-	},
-
-	{
-		"title": "Think it not strange",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20think-it-not-strange-en.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20think-it-not-strange-en_cover.png",
-		"language": "1",
-		"fileExtension" : ".epub"
-	},
-
-	{
-		"title": "Your sorrow will turn to joy",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20your-sorrow-will-turn-to-joy-en.epub",
-		"image": "TODO: add the right URL",
-		"language": "1",
-		"fileExtension" : ".epub"
-	},
-
-//	Richard Wurmbrand - PDF
-	{
-		"title": "Answer to half million letters",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Answer%20to%20half%20million%20letters.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Answer%20to%20half%20million%20Letters_cover.png",
-		"language": "1",
-		"fileExtension" : ".pdf"
-	},
-
-	{
-		"title": "Christ on the Jewish Road",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Christ%20on%20the%20Jewish%20Road.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Christ on the Jewish Road_cover.png",
-		"language": "1",
-		"fileExtension" : ".pdf"
-	},
-
-	{
-		"title": "From turture to Triumph",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From torture to Triumph.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From%20torture%20to%20Triumph_cover.png",
-		"language": "1",
-		"fileExtension" : ".pdf"
-	},
-
-	{
-		"title": "From the lips of Childern",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From the lips of Childern.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/From the lips of Childern_cover.png",
-		"language": "1",
-		"fileExtension" : ".pdf"
-	},
-
-	{
-		"title": "Abraham the father of all Believers",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Abraham%20Father%20of%20all%20Believers.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Abraham%20Father%20of%20all%20Belivers_cover.png",
-		"language": "1",
-		"fileExtension" : ".pdf"
-	},
-
-	{
-		"title": "Richard and Sabina Wurmbrand biographies",
-		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Richard_and_Sabina_Wurmbrand_biographies.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Richard%20Wurmbrand/Richard and Sabina Wurmbrand biographies_cover.png",
-		"language": "1",
-		"fileExtension" : ".pdf"
-	},
-
-	{
-		"title": "Confessions",
-		"author": "https://media.githubusercontent.com/media/AppsGR/cookiebox/main/English/Confessions-St_Augustine.pdf",
-		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/Confessions-St_Augustine-cover.png",
-		"language": "1",
-		"fileExtension" : ".pdf"
 	}
 ]
