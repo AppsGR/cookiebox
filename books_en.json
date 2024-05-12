@@ -1,10 +1,11 @@
 [
+	
 	{
-		"title": "Discipleship",
-		"author": "https://ourlivingfaith.com/wp-content/uploads/2024/05/J-Heinrich-Arnold_Discipleship_EN.pdf",
-		"image": "https://ourlivingfaith.com/wp-content/uploads/2024/05/J-Heinrich-Arnold_Discipleship_EN.png",
-		"language": "1",
-		"fileExtension": ".pdf"
+	        "title": "A Christian in a Non-Christian World",
+	        "author": "https://ourlivingfaith.com/wp-content/uploads/2024/05/Charles-Seet_A-Christian-in-a-Non-Christian-World_EN.pdf",
+	        "image": "https://ourlivingfaith.com/wp-content/uploads/2024/05/Charles-Seet_A-Christian-in-a-Non-Christian-World_EN.png",
+	        "language": "1",
+	        "fileExtension": ".pdf"
 	},
 	{
 		"title": "Spirit-Union allows for Soul-Rest",
@@ -14,12 +15,13 @@
 		"fileExtension": ".pdf"
 	},
 	{
-        "title": "A Christian in a Non-Christian World",
-        "author": "https://ourlivingfaith.com/wp-content/uploads/2024/05/Charles-Seet_A-Christian-in-a-Non-Christian-World_EN.pdf",
-        "image": "https://ourlivingfaith.com/wp-content/uploads/2024/05/Charles-Seet_A-Christian-in-a-Non-Christian-World_EN.png",
-        "language": "1",
-        "fileExtension": ".pdf"
-    },
+		"title": "Discipleship",
+		"author": "https://ourlivingfaith.com/wp-content/uploads/2024/05/J-Heinrich-Arnold_Discipleship_EN.pdf",
+		"image": "https://ourlivingfaith.com/wp-content/uploads/2024/05/J-Heinrich-Arnold_Discipleship_EN.png",
+		"language": "1",
+		"fileExtension": ".pdf"
+	},
+	
     {
         "title": "Biblical EQ A Christian Handbook For Emotional Transformation",
         "author": "https://ourlivingfaith.com/wp-content/uploads/2024/05/John-Edmistion_Biblical-EQ-A-Christian-Handbook-For-Emotional-Transformation_EN.pdf",
@@ -76,6 +78,14 @@
         "language": "1",
         "fileExtension": ".pdf"
     },
+	
+    {
+        "title": "Why Forgive?",
+        "author": "https://ourlivingfaith.com/wp-content/uploads/2024/05/Johann-Christoph-Arnold_Why-Forgive_EN.pdf",
+        "image": "https://ourlivingfaith.com/wp-content/uploads/2024/05/Johann-Christoph-Arnold_Why-Forgive_EN.png",
+        "language": "1",
+        "fileExtension": ".pdf"
+    },
     {
         "title": "Normal Christian life",
         "author": "https://ourlivingfaith.com/wp-content/uploads/2024/05/Unkonwn_Normal-Christian-life_EN.pdf",
@@ -94,13 +104,6 @@
         "title": "The Pursuit of God",
         "author": "https://ourlivingfaith.com/wp-content/uploads/2024/05/A-W-Tozer_The-Pursuit-of-God_EN.pdf",
         "image": "https://ourlivingfaith.com/wp-content/uploads/2024/05/A-W-Tozer_The-Pursuit-of-God_EN.png",
-        "language": "1",
-        "fileExtension": ".pdf"
-    },
-    {
-        "title": "Why Forgive?",
-        "author": "https://ourlivingfaith.com/wp-content/uploads/2024/05/Johann-Christoph-Arnold_Why-Forgive_EN.pdf",
-        "image": "https://ourlivingfaith.com/wp-content/uploads/2024/05/Johann-Christoph-Arnold_Why-Forgive_EN.png",
         "language": "1",
         "fileExtension": ".pdf"
     },
