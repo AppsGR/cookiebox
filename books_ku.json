@@ -1,0 +1,17 @@
+[
+	{
+		"title": "مسيحيت در ايران باستان بخش ۱",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/Fa/Bozorgmehr%20Vaziri%20-%20Christianity%20in%20ancient%20Part1%20-%20fa.pdf",
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/Fa/Bozorgmehr%20Vaziri%20-%20Christianity%20in%20ancient%20Part1%20-%20cover.png",
+		"language": "fa",
+		"fileExtension" : ".pdf"
+	},
+
+	{
+		"title": "مسيحيت در ايران باستان بخش ۲",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/Fa/Bozorgmehr%20Vaziri%20-%20Christianity%20in%20ancient%20Part2%20-%20fa.pdf",
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/Fa/Bozorgmehr%20Vaziri%20-%20Christianity%20in%20ancient%20Part2%20-%20cover.png",
+		"language": "fa",
+		"fileExtension" : ".pdf"
+	}
+]
