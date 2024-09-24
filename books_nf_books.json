@@ -1,0 +1,25 @@
+[
+	{
+		"title": "NF author",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/nf.epub",
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20a-tribute-to-my-father-en_cover.png",
+		"language": "1",
+		"fileExtension" : ".epub"
+	},
+
+	{
+		"title": "NF image",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20alive-to-wonder-en.epub",
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/nf.png",
+		"language": "2",
+		"fileExtension" : ".epub"
+	},
+
+	{
+		"title": "NF author and image",
+		"author": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/nf.epub",
+		"image": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/nf.png",
+		"language": "2",
+		"fileExtension" : ".epub"
+	}
+]
