@@ -1,0 +1,207 @@
+<feed>
+    <id>https://s3.amazonaws.com/open.minitex.org/</id>
+    <title>Open Textbook Library OPDS Feed</title>
+    <updated>2021-10-06T11:19:22Z</updated>
+    <link href="https://s3.amazonaws.com/open.minitex.org/" rel="self"/>
+    <entry>
+        <id>urn:uuid:01dc00d5-2aee-40ee-97b1-df6abfa4a905</id>
+        <title>
+            Placing the history of college writing: stories from the incomplete archivex
+        </title>
+        <bibframe:distribution bibframe:ProviderName="Open Textbook Library"/>
+        <author>
+            <name>Nathan Shepley</name>
+            <simplified:sort_name>Shepley, Nathan</simplified:sort_name>
+        </author>
+        <summary type="html">
+            "In Placing the History of College Writing, Nathan Shepley argues that pre-1950s composition history, if
+            analyzed with the right conceptual tools, can pluralize and clarify our understanding of the relationship
+            between the writing of college students and the writing's physical, social, and discursive surroundings.
+            Even if the immediate outcome of student writing is to generate academic credit, Shepley shows, the writing
+            does more complex rhetorical work. It gives students chances to uphold or adjust institutional codes for
+            student behavior, allows students and their literacy sponsors to respond to sociopolitical issues in a city
+            or state, enables faculty and administrators to create strategic representations of institutional or program
+            identities, and connects people across disciplines, occupations, and geographic locations. Shepley argues
+            that even if many of today's composition scholars and instructors work at institutions that lack extensive
+            historical records of the kind usually preferred by composition historians, those scholars and teachers can
+            mine their institutional collections for signs of the various contexts with which student writing
+            dealt."--Open Textbook Library.
+        </summary>
+        <updated>2018-05-01T13:01:22Z</updated>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/01dc00d5-2aee-40ee-97b1-df6abfa4a905.600.jpg"
+              type="image/jpeg" rel="http://opds-spec.org/image"/>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/01dc00d5-2aee-40ee-97b1-df6abfa4a905.200.jpg"
+              type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+        <dcterms:language>en</dcterms:language>
+        <dcterms:publisher>Parlor Press</dcterms:publisher>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/content/01dc00d5-2aee-40ee-97b1-df6abfa4a905.epub"
+              rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip"
+              dcterms:rights="https://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+        <category term="Adult" scheme="http://schema.org/audience" label="Adult"/>
+        <category term="Report writing--Study and teaching (Higher)" scheme="http://id.worldcat.org/fast/"/>
+        <category term="English language--Grammar, Generative--Study and teaching"
+                  scheme="http://id.worldcat.org/fast/"/>
+        <category term="English language--Rhetoric--Study and teaching" scheme="http://id.worldcat.org/fast/"/>
+    </entry>
+    <entry>
+        <id>urn:uuid:14fe5a51-a2cf-42b7-a935-2354c4b2eadb</id>
+        <title>Foundations of Computation</title>
+        <bibframe:distribution bibframe:ProviderName="Open Textbook Library"/>
+        <author>
+            <name>Carol Critchlow</name>
+            <simplified:sort_name>Critchlow, Carol</simplified:sort_name>
+        </author>
+        <summary type="html">
+            "Foundations of Computation is a free textbook for a one-semester course in theoretical computer science. It
+            has been used for several years in a course at Hobart and William Smith Colleges. The course has no
+            prerequisites other than introductory computer programming. The first half of the course covers material on
+            logic, sets, and functions that would often be taught in a course in discrete mathematics. The second part
+            covers material on automata, formal languages, and grammar that would ordinarily be encountered in an upper
+            level course in theoretical computer science."--Open Textbook Library.
+        </summary>
+        <updated>2018-05-24T16:59:22Z</updated>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/953415122.png" type="image/png"
+              rel="http://opds-spec.org/image"/>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/953415122.png" type="image/png"
+              rel="http://opds-spec.org/image/thumbnail"/>
+        <dcterms:language>en</dcterms:language>
+        <dcterms:publisher>Parlor Press</dcterms:publisher>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/content/953415122.pdf"
+              rel="http://opds-spec.org/acquisition/open-access" type="application/pdf"
+              dcterms:rights="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <category term="Adult" scheme="http://schema.org/audience" label="Adult"/>
+        <category term="Computation" scheme="http://id.worldcat.org/fast/"/>
+    </entry>
+    <entry>
+        <id>urn:uuid:1aac66e9-06e3-42c4-8d60-5c4b913a74e6</id>
+        <title>DC Circuits</title>
+        <bibframe:distribution bibframe:ProviderName="Open Textbook Library"/>
+        <author>
+            <name>Chad Davis</name>
+            <simplified:sort_name>Davis, Chad</simplified:sort_name>
+        </author>
+        <summary type="html">
+            "This book covers Direct Current (DC) circuit theory and is broken up into three modules. Module 1 covers
+            the basics for circuits that include DC sources (voltage or current) and resistors. Even though Module 1 is
+            not very difficult, it forms the foundation for more complicated topics in modules 2 and 3 so it is
+            important to have a firm grasp of all Module 1 topics before moving on. Module 2 covers more difficult
+            problem solving techniques for circuits that include only DC sources and resistors. Module 3 introduces
+            capacitors and inductors. These non-linear reactive components are analyzed in the transient and steady
+            state regions in circuits with DC sources in Module 3. Also annexed is a two-page cheat sheet that ENGR 2431
+            students at University of Oklahoma can use for exams."--Open Textbook Library.
+        </summary>
+        <updated>2018-07-09T12:04:22Z</updated>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/1aac66e9-06e3-42c4-8d60-5c4b913a74e6.600.png"
+              type="image/png" rel="http://opds-spec.org/image"/>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/1aac66e9-06e3-42c4-8d60-5c4b913a74e6.200.png"
+              type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+        <dcterms:language>en</dcterms:language>
+        <dcterms:publisher>University of Oklahoma Libraries</dcterms:publisher>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/content/1aac66e9-06e3-42c4-8d60-5c4b913a74e6.pdf"
+              rel="http://opds-spec.org/acquisition/open-access" type="application/pdf"
+              dcterms:rights="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <category term="Adult" scheme="http://schema.org/audience" label="Adult"/>
+        <category term="Electric circuits -- Direct current" scheme="http://id.worldcat.org/fast/"/>
+    </entry>
+    <entry>
+        <id>urn:uuid:05c55e47-ccbf-401d-bb26-c26a28a85f2d</id>
+        <title>Field Trials of Health Interventions: A Toolbox</title>
+        <bibframe:distribution bibframe:ProviderName="Open Textbook Library"/>
+        <author>
+            <name>Peter G. Smith</name>
+            <simplified:sort_name>Smith, Peter G.</simplified:sort_name>
+        </author>
+        <author>
+            <name>Richard H. Morrow</name>
+            <simplified:sort_name>Morrow, Richard H.</simplified:sort_name>
+        </author>
+        <author>
+            <name>David A. Ross</name>
+            <simplified:sort_name>Ross, David A.</simplified:sort_name>
+        </author>
+        <summary type="html">
+            "Before new interventions can be used in disease control programmes, it is essential that they are carefully
+            evaluated in "field trials", which may be complex and expensive undertakings. Descriptions of the detailed
+            procedures and methods used in trials that have been conducted in the past have generally not been
+            published. As a consequence, those planning such trials have few guidelines available and little access to
+            previously accumulated knowledge. In this book the practical issues of trial design and conduct are
+            discussed fully and in sufficient detail for the text to be used as a "toolbox" by field investigators. The
+            toolbox has now been extensively tested through use of the first two editions and this third edition is a
+            comprehensive revision, incorporating the many developments that have taken place with respect to trials
+            since 1996 and involving more than 30 contributors. Most of the chapters have been extensively revised and 7
+            new chapters have been added."--Open Textbook Library.
+        </summary>
+        <updated>2018-07-09T12:04:22Z</updated>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/05c55e47-ccbf-401d-bb26-c26a28a85f2d.600.png"
+              type="image/png" rel="http://opds-spec.org/image"/>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/05c55e47-ccbf-401d-bb26-c26a28a85f2d.200.png"
+              type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+        <dcterms:language>en</dcterms:language>
+        <dcterms:publisher>Independent</dcterms:publisher>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/content/05c55e47-ccbf-401d-bb26-c26a28a85f2d.pdf"
+              rel="http://opds-spec.org/acquisition/open-access" type="application/pdf"
+              dcterms:rights="https://creativecommons.org/licenses/by-nc/4.0/"/>
+        <category term="Adult" scheme="http://schema.org/audience" label="Adult"/>
+        <category term="Tropical Medicine -- methods" scheme="http://id.worldcat.org/fast/"/>
+    </entry>
+    <entry>
+        <id>urn:uuid:dc5611b9-f059-4613-a477-1c78935bd848</id>
+        <title>Lifespan Development: A Psychological Perspective</title>
+        <bibframe:distribution bibframe:ProviderName="Open Textbook Library"/>
+        <author>
+            <name>Martha Lally</name>
+            <simplified:sort_name>Lally, Martha</simplified:sort_name>
+        </author>
+        <author>
+            <name>Suzanne Valentine-French</name>
+            <simplified:sort_name>Valentine-French, Suzanne</simplified:sort_name>
+        </author>
+        <summary type="html">
+            "This textbook introduces the idea of lifespan development from a psychological perspective." --Open
+            Textbook Library.
+        </summary>
+        <updated>2018-07-09T12:04:22Z</updated>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/dc5611b9-f059-4613-a477-1c78935bd848.600.png"
+              type="image/png" rel="http://opds-spec.org/image"/>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/dc5611b9-f059-4613-a477-1c78935bd848.200.png"
+              type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+        <dcterms:language>en</dcterms:language>
+        <dcterms:publisher>Independent</dcterms:publisher>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/content/dc5611b9-f059-4613-a477-1c78935bd848.pdf"
+              rel="http://opds-spec.org/acquisition/open-access" type="application/pdf"
+              dcterms:rights="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <category term="Adult" scheme="http://schema.org/audience" label="Adult"/>
+        <category term="Aging -- Psychological aspects" scheme="http://id.worldcat.org/fast/"/>
+    </entry>
+    <entry>
+        <id>urn:uuid:9a6e42a6-70c6-495b-8cc3-4894474208f5</id>
+        <title>
+            Eloquent JavaScript: A Modern Introduction to Programming
+        </title>
+        <bibframe:distribution bibframe:ProviderName="Open Textbook Library"/>
+        <author>
+            <name>Marijn Haverbeke</name>
+            <simplified:sort_name>Haverbeke, Marijn</simplified:sort_name>
+        </author>
+        <summary type="html">
+            "This book contains roughly three parts. The first 11 chapters discuss the JavaScript language itself. The
+            next eight chapters are about web browsers and the way JavaScript is used to program them. Finally, two
+            chapters are devoted to Node.js, another environment to program JavaScript in. Throughout the book, there
+            are five project chapters, which describe larger example programs to give you a taste of real programming.
+            In order of appearance, we will work through building an artificial life simulation, a programming language,
+            a platform game, a paint program, and a dynamic website."--Open Textbook Library.
+        </summary>
+        <updated>2018-07-09T12:04:22Z</updated>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/9a6e42a6-70c6-495b-8cc3-4894474208f5.600.png"
+              type="image/png" rel="http://opds-spec.org/image"/>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/covers/9a6e42a6-70c6-495b-8cc3-4894474208f5.200.png"
+              type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+        <dcterms:language>en</dcterms:language>
+        <dcterms:publisher>Independent</dcterms:publisher>
+        <link href="http://s3.amazonaws.com/open.minitex.org/textbooks/content/9a6e42a6-70c6-495b-8cc3-4894474208f5.pdf"
+              rel="http://opds-spec.org/acquisition/open-access" type="application/pdf"
+              dcterms:rights="https://creativecommons.org/licenses/by-nd/4.0/"/>
+        <category term="Adult" scheme="http://schema.org/audience" label="Adult"/>
+        <category term="JavaScript (Computer program language)" scheme="http://id.worldcat.org/fast/"/>
+    </entry>
+</feed>
