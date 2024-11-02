@@ -106,7 +106,31 @@
         {"href": "https://test.opds.io/assets/romeo/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
         {"href": "https://test.opds.io/assets/romeo/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
       ]
-    }
+    },
 
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "aaaa",
+        "author": {"name": "writer bbbb", "sortAs": "bbbb, writer"},
+        "identifier": "broken identifier ",
+        "language": "en",
+        "modified": "2018-05-04T19:28:00Z",
+        "published": "1597-01-01",
+        "publisher": "Feedbooks",
+        "description": "some disc "
+      },
+      "links": [
+        {
+          "rel": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20alive-to-wonder-en.epub",
+          "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20alive-to-wonder-en.epub",
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/romeo/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+        {"href": "https://test.opds.io/assets/romeo/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+      ]
+    }
   ]
 }
