@@ -1,4 +1,4 @@
-<feed>
+<feed xmlns:dcterms="http://www.w3.org/1999/xhtml" xmlns:bibframe="bibframe">
     <id>https://s3.amazonaws.com/open.minitex.org/</id>
     <title>Open Textbook Library OPDS Feed</title>
     <updated>2021-10-06T11:19:22Z</updated>
@@ -47,4 +47,5 @@
         <category term="Adult" scheme="http://schema.org/audience" label="Adult"/>
         <category term="Computation" scheme="http://id.worldcat.org/fast/"/>
     </entry>
+    <link href="http://open.minitex.org/textbooks/authentication_document" rel="http://opds-spec.org/auth/document"/>
 </feed>
