@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "title": "OPDS 2.0 Test Catalog"
+    "title": "The title"
   },
 
   "links": [
-    {"rel": "self", "href": "https://test.opds.io/2.0/home.json", "type": "application/opds+json"}
+    {"rel": "self", "href": "https://raw.github.com/AppsGR/cookiebox/blob/RMs/DevBranch/books22.json", "type": "application/json"}
   ],
 
   "publications": [
     {
       "metadata": {
         "@type": "http://schema.org/Book",
-        "title": "Moby-Dick",
+        "title": "mmmmmmmmmm-Dick",
         "author": {"name": "Herman Melville", "sortAs": "Melville, Herman"},
         "identifier": "http://www.feedbooks.com/book/54/moby-dick",
         "language": "en",
@@ -111,7 +111,7 @@
     {
       "metadata": {
         "@type": "http://schema.org/Book",
-        "title": "a8",
+        "title": "aaaaaa 11",
         "author": {"name": "writer bbbb", "sortAs": "bbbb, writer"},
         "identifier": "broken identifier ",
         "language": "en",
