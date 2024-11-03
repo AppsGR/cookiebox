@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "title": "OPDS 2.0 Test Catalog"
+  },
+
+  "links": [
+    {"rel": "self", "href": "https://test.opds.io/2.0/home.json", "type": "application/opds+json"}
+  ],
+
+  "publications": [
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "22",
+        "author": {"name": "Herman Melville", "sortAs": "Melville, Herman"},
+        "identifier": "http://www.feedbooks.com/book/54/moby-dick",
+        "language": "en",
+        "modified": "2018-04-23T23:18:00Z",
+        "published": "1851-01-01",
+        "publisher": "Feedbooks",
+        "description": "Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://test.opds.io/assets/moby/file.epub",
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/moby/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+        {"href": "https://test.opds.io/assets/moby/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "Le Mystère de la chambre jaune",
+        "sortAs": "Mystère de la chambre jaune, Le",
+        "author": {"name": "Gaston Leroux", "sortAs": "Leroux, Gaston"},
+        "identifier": "http://fr.feedbooks.com/book/588/le-myst%C3%A8re-de-la-chambre-jaune",
+        "language": "fr",
+        "modified": "2018-04-23T22:32:00Z",
+        "published": "1907-01-01",
+        "publisher": "Feedbooks",
+        "description": "Imaginez-vous devant un coffre fort fermé, où vous entendriez quelqu'un crier à l'aide , vous ouvrez et, vous ne trouvez que la victime. Par où l'assassin est-il parti ? C'est le Mystère de la chambre jaune... La plus célèbre des aventures de Rouletabille..."
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://test.opds.io/assets/chambrejaune/file.epub",
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/chambrejaune/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+        {"href": "https://test.opds.io/assets/chambrejaune/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+      ]
+    },
+
+
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "Moby-Dick",
+        "author": {"name": "Herman Melville", "sortAs": "Melville, Herman"},
+        "identifier": "http://www.feedbooks.com/book/54/moby-dick",
+        "language": "en",
+        "modified": "2018-04-23T23:18:00Z",
+        "published": "1851-01-01",
+        "publisher": "Feedbooks",
+        "description": "Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://test.opds.io/assets/moby/file.epub",
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/moby/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+        {"href": "https://test.opds.io/assets/moby/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "Romeo and Juliet",
+        "author": {"name": "William Shakespeare", "sortAs": "Shakespeare, William"},
+        "identifier": "http://www.feedbooks.com/book/2936/romeo-and-juliet",
+        "language": "en",
+        "modified": "2018-05-04T19:28:00Z",
+        "published": "1597-01-01",
+        "publisher": "Feedbooks",
+        "description": "Romeo and Juliet is a tragic play written early in the career of William Shakespeare about two teenage star-cross'd lovers whose untimely deaths ultimately unite their feuding households. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal young lovers."
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20alive-to-wonder-en.epub",
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/romeo/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+        {"href": "https://test.opds.io/assets/romeo/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+      ]
+    },
+
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "a8",
+        "author": {"name": "writer bbbb", "sortAs": "bbbb, writer"},
+        "identifier": "broken identifier ",
+        "language": "en",
+        "modified": "2018-05-04T19:28:00Z",
+        "published": "1597-01-01",
+        "publisher": "Feedbooks",
+        "description": "some disc "
+      },
+      "links": [
+        {
+          "rel": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20alive-to-wonder-en.epub",
+          "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20alive-to-wonder-en.epub",
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/romeo/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+        {"href": "https://test.opds.io/assets/romeo/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+      ]
+    }
+  ]
+}
