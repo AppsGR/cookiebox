@@ -2,50 +2,50 @@
   "metadata": {
     "title": "Library"
   },
-
+  
   "links": [
-    {"rel": "self", "href": "https://test.opds.io/2.0/home.json", "type": "application/ys+json"}
+    {"rel": "self", "href": "https://test.opds.io/2.0/home.json", "type": "application/opds+json"}
   ],
-
+  
   "navigation": [
     {
-      "href": "https://test.opds.io/2.0/navigation.json",
-      "title": "Explore (Navigation Feed)",
+      "href": "https://test.opds.io/2.0/navigation.json", 
+      "title": "Explore (Navigation Feed)", 
       "type": "application/opds+json"
     },
     {
-      "href": "https://test.opds.io/2.0/publications.json",
-      "title": "French Books (Publications Feed)",
+      "href": "https://test.opds.io/2.0/publications.json", 
+      "title": "French Books (Publications Feed)", 
       "type": "application/opds+json"
     },
     {
-      "href": "https://test.opds.io/2.0/home.json",
-      "title": "Third Link",
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Third Link", 
       "type": "application/opds+json"
     },
     {
-      "href": "https://test.opds.io/2.0/home.json",
-      "title": "Fourth Link",
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Fourth Link", 
       "type": "application/opds+json"
     },
     {
-      "href": "https://test.opds.io/2.0/home.json",
-      "title": "Fifth Link",
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Fifth Link", 
       "type": "application/opds+json"
     },
     {
-      "href": "https://test.opds.io/2.0/home.json",
-      "title": "Sixth Link",
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Sixth Link", 
       "type": "application/opds+json"
     },
     {
-      "href": "https://test.opds.io/2.0/home.json",
-      "title": "Seventh Link",
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Seventh Link", 
       "type": "application/opds+json"
     },
     {
-      "href": "https://test.opds.io/2.0/home.json",
-      "title": "Eight Link",
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Eight Link", 
       "type": "application/opds+json"
     }
   ],
@@ -85,8 +85,8 @@
           },
           "links": [
             {
-              "rel": "http://opds-spec.org/acquisition/open-access",
-              "href": "https://test.opds.io/assets/centredelaterre/file.epub",
+              "rel": "http://opds-spec.org/acquisition/open-access", 
+              "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
               "type": "application/epub+zip"
             }
           ],
@@ -111,8 +111,8 @@
           },
           "links": [
             {
-              "rel": "http://opds-spec.org/acquisition/open-access",
-              "href": "https://test.opds.io/assets/rougenoir/file.epub",
+              "rel": "http://opds-spec.org/acquisition/open-access", 
+              "href": "https://test.opds.io/assets/rougenoir/file.epub", 
               "type": "application/epub+zip"
             }
           ],
@@ -136,8 +136,8 @@
           },
           "links": [
             {
-              "rel": "http://opds-spec.org/acquisition/open-access",
-              "href": "https://test.opds.io/assets/chambrejaune/file.epub",
+              "rel": "http://opds-spec.org/acquisition/open-access", 
+              "href": "https://test.opds.io/assets/chambrejaune/file.epub", 
               "type": "application/epub+zip"
             }
           ],
@@ -160,8 +160,8 @@
           },
           "links": [
             {
-              "rel": "http://opds-spec.org/acquisition/open-access",
-              "href": "https://test.opds.io/assets/bovary/file.epub",
+              "rel": "http://opds-spec.org/acquisition/open-access", 
+              "href": "https://test.opds.io/assets/bovary/file.epub", 
               "type": "application/epub+zip"
             }
           ],
@@ -190,8 +190,8 @@
           },
           "links": [
             {
-              "rel": "http://opds-spec.org/acquisition/open-access",
-              "href": "https://test.opds.io/assets/swann/file.epub",
+              "rel": "http://opds-spec.org/acquisition/open-access", 
+              "href": "https://test.opds.io/assets/swann/file.epub", 
               "type": "application/epub+zip"
             }
           ],
@@ -231,8 +231,8 @@
           },
           "links": [
             {
-              "rel": "http://opds-spec.org/acquisition/open-access",
-              "href": "https://test.opds.io/assets/moby/file.epub",
+              "rel": "http://opds-spec.org/acquisition/open-access", 
+              "href": "https://test.opds.io/assets/moby/file.epub", 
               "type": "application/epub+zip"
             }
           ],
@@ -255,8 +255,8 @@
           },
           "links": [
             {
-              "rel": "http://opds-spec.org/acquisition/open-access",
-              "href": "https://test.opds.io/assets/romeo/file.epub",
+              "rel": "http://opds-spec.org/acquisition/open-access", 
+              "href": "https://test.opds.io/assets/romeo/file.epub", 
               "type": "application/epub+zip"
             }
           ],
@@ -279,8 +279,8 @@
           },
           "links": [
             {
-              "rel": "http://opds-spec.org/acquisition/open-access",
-              "href": "https://test.opds.io/assets/eyre/file.epub",
+              "rel": "http://opds-spec.org/acquisition/open-access", 
+              "href": "https://test.opds.io/assets/eyre/file.epub", 
               "type": "application/epub+zip"
             }
           ],
@@ -307,8 +307,8 @@
       },
       "links": [
         {
-          "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://test.opds.io/assets/moby/file.epub",
+          "rel": "http://opds-spec.org/acquisition/open-access", 
+          "href": "https://test.opds.io/assets/moby/file.epub", 
           "type": "application/epub+zip"
         }
       ],
@@ -332,8 +332,8 @@
       },
       "links": [
         {
-          "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://test.opds.io/assets/chambrejaune/file.epub",
+          "rel": "http://opds-spec.org/acquisition/open-access", 
+          "href": "https://test.opds.io/assets/chambrejaune/file.epub", 
           "type": "application/epub+zip"
         }
       ],
