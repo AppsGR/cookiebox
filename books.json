@@ -111,7 +111,7 @@
     {
       "metadata": {
         "@type": "http://schema.org/Book",
-        "title": "a5",
+        "title": "a6",
         "author": {"name": "writer bbbb", "sortAs": "bbbb, writer"},
         "identifier": "broken identifier ",
         "language": "en",
