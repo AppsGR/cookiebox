@@ -13,7 +13,7 @@
     {
       "metadata": {
         "@type": "http://schema.org/Book",
-        "title": "mmmmmmmmmm-Dick",
+        "title": "kkkk-Dick",
         "author": {"name": "Herman Melville", "sortAs": "Melville, Herman"},
         "identifier": "http://www.feedbooks.com/book/54/moby-dick",
         "language": "en",
