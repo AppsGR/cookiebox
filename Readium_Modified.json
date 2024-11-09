@@ -12,17 +12,17 @@
     "navigation": [
         {
             "href": "https://raw.github.com/AppsGR/cookiebox/blob/RMs/DevBranch/books22.json",
-            "title": "title L15 V2.03- English books",
+            "title": "English books - title L15 V2.03",
             "type": "application/opds+json"
         },
         {
             "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
-            "title": "title L20 V2 - Dutch books",
+            "title": "Dutch books - title L20 V2",
             "type": "application/opds+json"
         },
         {
             "href": "https://test.opds.io/2.0/home.json",
-            "title": "title L25 - Persian books",
+            "title": "Persian books - title L25",
             "type": "application/opds+json"
         }
     ],
