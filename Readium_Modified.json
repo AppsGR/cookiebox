@@ -27,7 +27,7 @@
         },
         {
             "title": "Kurdish books",
-            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_ku.json",
+            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
             "type": "application/opds+json"
         }
     ],
