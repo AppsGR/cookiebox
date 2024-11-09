@@ -11,18 +11,23 @@
     ],
     "navigation": [
         {
-            "href": "https://raw.github.com/AppsGR/cookiebox/blob/RMs/DevBranch/books22.json",
-            "title": "English books - title L15 V2.03",
+            "title": "English books",
+            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
             "type": "application/opds+json"
         },
         {
-            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
-            "title": "Dutch books - title L20 V2",
+            "title": "Dutch books",
+            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_nl.json",
             "type": "application/opds+json"
         },
         {
-            "href": "https://test.opds.io/2.0/home.json",
-            "title": "Persian books - title L25",
+            "title": "Persian books",
+            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_fa.json",
+            "type": "application/opds+json"
+        },
+        {
+            "title": "Kurdish books",
+            "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_ku.json",
             "type": "application/opds+json"
         }
     ],
