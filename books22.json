@@ -11,8 +11,8 @@
   "groups": [
     {
       "metadata": {
-        "title": "French Classics 3",
-        "numberOfItems": 5
+        "title": "Our English Books",
+        "numberOfItems": 2
       },
       "links": [
         {"rel": "self", "href": "https://test.opds.io/2.0/publications.json", "type": "application/opds+json"}
