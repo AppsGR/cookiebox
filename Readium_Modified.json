@@ -26,7 +26,7 @@
             "type": "application/opds+json"
         },
         {
-            "title": "Kurdish books",
+            "title": "Kurdish books 3",
             "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
             "type": "application/opds+json"
         }
