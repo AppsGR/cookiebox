@@ -21,28 +21,6 @@
                                         "href": "https://test.opds.io/2.0/publications.json",
                                         "type": "application/opds+json"
                                 }
-                        ],
-                        "publications": [
-                                {
-                                        "href": "https://example.com/an-all-consuming-passion-for-jesus.json",
-                                        "type": "application/json"
-                                },
-                                {
-                                        "href": "https://example.com/captive-to-glory.json",
-                                        "type": "application/json"
-                                },
-                                {
-                                        "href": "https://example.com/le-mystere-de-la-chambre-jaune.json",
-                                        "type": "application/json"
-                                },
-                                {
-                                        "href": "https://example.com/madame-bovary.json",
-                                        "type": "application/json"
-                                },
-                                {
-                                        "href": "https://example.com/du-cote-de-chez-swann.json",
-                                        "type": "application/json"
-                                }
                         ]
                 },
                 {
