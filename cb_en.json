@@ -24,26 +24,6 @@
                         ],
                         "publications": [
 
-                                {
-                                        "metadata": {
-                                                "title": "More Navigation"
-                                        },
-                                        "navigation": [
-                                                {
-                                                        "href": "https://test.opds.io/2.0/home.json",
-                                                        "title": "FR",
-                                                        "type": "application/opds+json"
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/2.0/home.json",
-                                                        "title": "EN",
-                                                        "type": "application/opds+json"
-                                                }
-                                        ]
-                                },
-
-
-
 
                                 {
                                         "metadata": {
