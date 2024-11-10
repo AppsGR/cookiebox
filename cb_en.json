@@ -64,13 +64,13 @@
                     "images": [
                         {
                             "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en_cover.png",
-                            "type": "image/jpeg",
+                            "type": "image/png",
                             "height": 110,
                             "width": 146
                         },
                         {
                             "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en_cover.png",
-                            "type": "image/jpeg",
+                            "type": "image/png",
                             "height": 346,
                             "width": 260
                         }
