@@ -1,6 +1,6 @@
 {
         "metadata": {
-                "title": "Library"
+                "title": "Library ----------------------------------"
         },
         "links": [
                 {
@@ -10,76 +10,7 @@
                 }
         ],
         "groups": [
-                {{
-                        "metadata": {
-                                "title": "Library ----------------------------------"
-                        },
-                        "links": [
-                                {
-                                        "rel": "self",
-                                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
-                                        "type": "application/json"
-                                }
-                        ],
-                        "groups": [
-                                {
-                                        "metadata": {
-                                                "title": "All our books",
-                                                "numberOfItems": 4
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "self",
-                                                        "href": "https://test.opds.io/2.0/publications.json",
-                                                        "type": "application/opds+json"
-                                                }
-                                        ],
-                                        "publications": [
-                                                {
-                                                        "href": "https://example.com/an-all-consuming-passion-for-jesus.json",
-                                                        "type": "application/json"
-                                                },
-                                                {
-                                                        "href": "https://example.com/captive-to-glory.json",
-                                                        "type": "application/json"
-                                                },
-                                                {
-                                                        "href": "https://example.com/le-mystere-de-la-chambre-jaune.json",
-                                                        "type": "application/json"
-                                                },
-                                                {
-                                                        "href": "https://example.com/madame-bovary.json",
-                                                        "type": "application/json"
-                                                },
-                                                {
-                                                        "href": "https://example.com/du-cote-de-chez-swann.json",
-                                                        "type": "application/json"
-                                                }
-                                        ]
-                                },
-                                {
-                                        "metadata": {
-                                                "title": "More Navigation"
-                                        },
-                                        "navigation": [
-                                                {
-                                                        "href": "https://test.opds.io/2.0/home.json",
-                                                        "title": "French Books",
-                                                        "type": "application/opds+json"
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/2.0/home.json",
-                                                        "title": "English Books",
-                                                        "type": "application/opds+json"
-                                                }
-                                        ]
-                                },
-                                {
-                                        "href": "https://example.com/english-classics.json",
-                                        "type": "application/json"
-                                }
-                        ]
-                },
+                {
                         "metadata": {
                                 "title": "All our books",
                                 "numberOfItems": 4
