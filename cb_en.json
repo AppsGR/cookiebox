@@ -1,6 +1,6 @@
 {
         "metadata": {
-                "title": "Library"
+                "title": "Library ----------------------------------"
         },
         "links": [
                 {
@@ -24,103 +24,24 @@
                         ],
                         "publications": [
                                 {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "An all-Consuming Passion for Jesus",
-                                                "author": {
-                                                        "name": "John Piper",
-                                                        "sortAs": "Piper, John"
-                                                },
-                                                "identifier": "-",
-                                                "language": "en",
-                                                "modified": "2018-04-23T22:15:00Z",
-                                                "published": "1864-01-01",
-                                                "publisher": "Feedbooks",
-                                                "numberOfPages": 111,
-                                                "subject": [
-                                                        {
-                                                                "name": "Christianity",
-                                                                "code": "FBFIC028000"
-                                                        },
-                                                        {
-                                                                "name": "Christianity",
-                                                                "code": "FBFIC002000"
-                                                        }
-                                                ],
-                                                "description": "An all-Consuming Passion for Jesus"
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
-                                                        "type": "image/png",
-                                                        "height": 110,
-                                                        "width": 146
-                                                },
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
-                                                        "type": "image/png",
-                                                        "height": 346,
-                                                        "width": 260
-                                                }
-                                        ]
+                                        "href": "https://example.com/an-all-consuming-passion-for-jesus.json",
+                                        "type": "application/json"
                                 },
                                 {
-                                        "metadata": {
-                                                "title": "More Navigation"
-                                        },
-                                        "navigation": [
-                                                {
-                                                        "href": "https://test.opds.io/2.0/home.json",
-                                                        "title": "FR",
-                                                        "type": "application/opds+json"
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/2.0/home.json",
-                                                        "title": "EN",
-                                                        "type": "application/opds+json"
-                                                }
-                                        ]
+                                        "href": "https://example.com/captive-to-glory.json",
+                                        "type": "application/json"
                                 },
                                 {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "Captive to Glory",
-                                                "subtitle": "",
-                                                "sortAs": "Piper, John",
-                                                "author": "John Piper",
-                                                "identifier": "-",
-                                                "language": "en",
-                                                "modified": "2018-04-23T22:25:00Z",
-                                                "published": "1834-01-01",
-                                                "publisher": "",
-                                                "description": ""
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/epubs/JohnPiper_CaptiveToGloryEN.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/JohnPiper_CaptiveToGlory.png",
-                                                        "type": "image/jpeg",
-                                                        "rel": "http://opds-spec.org/image/thumbnail"
-                                                },
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/JohnPiper_CaptiveToGlory.png",
-                                                        "type": "image/jpeg",
-                                                        "rel": "http://opds-spec.org/image"
-                                                }
-                                        ]
+                                        "href": "https://example.com/le-mystere-de-la-chambre-jaune.json",
+                                        "type": "application/json"
+                                },
+                                {
+                                        "href": "https://example.com/madame-bovary.json",
+                                        "type": "application/json"
+                                },
+                                {
+                                        "href": "https://example.com/du-cote-de-chez-swann.json",
+                                        "type": "application/json"
                                 }
                         ]
                 },
@@ -131,7 +52,7 @@
                         "navigation": [
                                 {
                                         "href": "https://test.opds.io/2.0/home.json",
-                                        "title": "French books",
+                                        "title": "French Books",
                                         "type": "application/opds+json"
                                 },
                                 {
@@ -142,186 +63,8 @@
                         ]
                 },
                 {
-                        "metadata": {
-                                "title": "All our books",
-                                "numberOfItems": 4
-                        },
-                        "links": [
-                                {
-                                        "rel": "self",
-                                        "href": "https://test.opds.io/2.0/publications.json",
-                                        "type": "application/opds+json"
-                                }
-                        ],
-                        "publications": [
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "An all-Consuming Passion for Jesus",
-                                                "author": {
-                                                        "name": "John Piper",
-                                                        "sortAs": "Piper, John"
-                                                },
-                                                "identifier": "-",
-                                                "language": "en",
-                                                "modified": "2018-04-23T22:15:00Z",
-                                                "published": "1864-01-01",
-                                                "publisher": "Feedbooks",
-                                                "numberOfPages": 111,
-                                                "subject": [
-                                                        {
-                                                                "name": "Christianity",
-                                                                "code": "FBFIC028000"
-                                                        },
-                                                        {
-                                                                "name": "Christianity",
-                                                                "code": "FBFIC002000"
-                                                        }
-                                                ],
-                                                "description": "An all-Consuming Passion for Jesus"
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
-                                                        "type": "image/png",
-                                                        "height": 110,
-                                                        "width": 146
-                                                },
-                                                {
-                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
-                                                        "type": "image/png",
-                                                        "height": 346,
-                                                        "width": 260
-                                                }
-                                        ]
-                                }
-                        ]
-                },
-                {
-                        "metadata": {
-                                "title": "English Classics",
-                                "numberOfItems": 3
-                        },
-                        "publications": [
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "Moby-Dick",
-                                                "author": {
-                                                        "name": "Herman Melville",
-                                                        "sortAs": "Melville, Herman"
-                                                },
-                                                "identifier": "http://www.feedbooks.com/book/54/moby-dick",
-                                                "language": "en",
-                                                "modified": "2018-04-23T23:18:00Z",
-                                                "published": "1851-01-01",
-                                                "publisher": "Feedbooks",
-                                                "description": "Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://test.opds.io/assets/moby/file.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://test.opds.io/assets/moby/small.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 169,
-                                                        "width": 110
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/assets/moby/normal.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 400,
-                                                        "width": 260
-                                                }
-                                        ]
-                                },
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "Romeo and Juliet",
-                                                "author": {
-                                                        "name": "William Shakespeare",
-                                                        "sortAs": "Shakespeare, William"
-                                                },
-                                                "identifier": "http://www.feedbooks.com/book/2936/romeo-and-juliet",
-                                                "language": "en",
-                                                "modified": "2018-05-04T19:28:00Z",
-                                                "published": "1597-01-01",
-                                                "publisher": "Feedbooks",
-                                                "description": "Romeo and Juliet is a tragic play written early in the career of William Shakespeare about two teenage star-cross'd lovers whose untimely deaths ultimately unite their feuding households. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal young lovers."
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://test.opds.io/assets/romeo/file.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://test.opds.io/assets/romeo/small.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 169,
-                                                        "width": 110
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/assets/romeo/normal.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 400,
-                                                        "width": 260
-                                                }
-                                        ]
-                                },
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "Jane Eyre",
-                                                "author": {
-                                                        "name": "Charlotte Brontë",
-                                                        "sortAs": "Brontë, Charlotte"
-                                                },
-                                                "identifier": "http://www.feedbooks.com/book/144/jane-eyre",
-                                                "language": "en",
-                                                "modified": "2018-05-04T19:32:00Z",
-                                                "published": "1847-01-01",
-                                                "publisher": "Feedbooks",
-                                                "description": "Jane Eyre, the story of a young girl and her passage into adulthood, was an immediate commercial success at the time of its original publication in 1847. Its representation of the underside of domestic life and the hypocrisy behind religious enthusiasm drew both praise and bitter criticism, while Charlotte Brontë's striking expose of poor living conditions for children in charity schools as well as her poignant portrayal of the limitations faced by women who worked as governesses sparked great controversy and social debate. Jane Eyre, Brontë's best-known novel, remains an extraordinary coming-of-age narrative, and one of the great classics of literature."
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://test.opds.io/assets/eyre/file.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://test.opds.io/assets/eyre/small.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 169,
-                                                        "width": 110
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/assets/eyre/normal.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 400,
-                                                        "width": 260
-                                                }
-                                        ]
-                                }
-                        ]
+                        "href": "https://example.com/english-classics.json",
+                        "type": "application/json"
                 }
         ]
 }
