@@ -25,9 +25,6 @@
                 }
             ],
             "publications": [
-
-
-
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
@@ -83,37 +80,43 @@
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
-                        "title": "Le Rouge et le Noir",
-                        "subtitle": "Chronique du XIXe siècle",
-                        "sortAs": "Rouge et le Noir, Le",
-                        "author": "Stendhal",
-                        "identifier": "http://fr.feedbooks.com/book/220/le-rouge-et-le-noir",
-                        "language": "fr",
+                        "title": "Captive to Glory",
+                        "subtitle": "",
+                        "sortAs": "Piper, John",
+                        "author": "John Piper",
+                        "identifier": "-",
+                        "language": "en",
                         "modified": "2018-04-23T22:25:00Z",
                         "published": "1834-01-01",
-                        "publisher": "Feedbooks",
-                        "description": "Au rouge des armes, Julien Sorel préfèrera le noir des ordres. Au cours de son ascension sociale, deux femmes se singularisent, comme pour figurer les deux penchants de son caractère : Madame de Rênal - le rêve, l'aspiration à un bonheur pur et simple - et Mathilde de La Mole - l'énergie, l'action brillante et fébrile. A ces composantes stendhaliennes (conception de la vie qui dépasse la stratégie narrative pour s'étendre à l'existence de l'auteur) correspondent deux facettes stylistiques : la sobriété et la restriction du champ de vision."
+                        "publisher": "",
+                        "description": ""
                     },
                     "links": [
                         {
                             "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": "https://test.opds.io/assets/rougenoir/file.epub",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/epubs/JohnPiper_CaptiveToGloryEN.epub",
                             "type": "application/epub+zip"
                         }
                     ],
                     "images": [
                         {
-                            "href": "https://test.opds.io/assets/rougenoir/small.jpg",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/JohnPiper_CaptiveToGlory.png",
                             "type": "image/jpeg",
                             "rel": "http://opds-spec.org/image/thumbnail"
                         },
                         {
-                            "href": "https://test.opds.io/assets/rougenoir/normal.jpg",
+                            "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/JohnPiper_CaptiveToGlory.png",
                             "type": "image/jpeg",
                             "rel": "http://opds-spec.org/image"
                         }
                     ]
                 },
+
+
+
+
+
+
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
