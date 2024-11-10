@@ -71,6 +71,30 @@
                                                 }
                                         ]
                                 },
+
+
+
+                                {
+                                        "metadata": {
+                                                "title": "More Navigation"
+                                        },
+                                        "navigation": [
+                                                {
+                                                        "href": "https://test.opds.io/2.0/home.json",
+                                                        "title": "FR",
+                                                        "type": "application/opds+json"
+                                                },
+                                                {
+                                                        "href": "https://test.opds.io/2.0/home.json",
+                                                        "title": "EN",
+                                                        "type": "application/opds+json"
+                                                }
+                                        ]
+                                },
+
+
+
+
                                 {
                                         "metadata": {
                                                 "@type": "http://schema.org/Book",
@@ -114,7 +138,7 @@
                         "navigation": [
                                 {
                                         "href": "https://test.opds.io/2.0/home.json",
-                                        "title": "John Piper",
+                                        "title": "French books",
                                         "type": "application/opds+json"
                                 },
                                 {
@@ -124,6 +148,7 @@
                                 }
                         ]
                 },
+
 
 
 
@@ -133,21 +158,69 @@
 
                 {
                         "metadata": {
-                                "title": "Test Navigation"
+                                "title": "All our books",
+                                "numberOfItems": 4
                         },
-                        "navigation": [
+                        "links": [
                                 {
-                                        "href": "https://test.opds.io/2.0/home.json",
-                                        "title": "John Piper",
+                                        "rel": "self",
+                                        "href": "https://test.opds.io/2.0/publications.json",
                                         "type": "application/opds+json"
-                                },
+                                }
+                        ],
+                        "publications": [
                                 {
-                                        "href": "https://test.opds.io/2.0/home.json",
-                                        "title": "English Books",
-                                        "type": "application/opds+json"
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "An all-Consuming Passion for Jesus",
+                                                "author": {
+                                                        "name": "John Piper",
+                                                        "sortAs": "Piper, John"
+                                                },
+                                                "identifier": "-",
+                                                "language": "en",
+                                                "modified": "2018-04-23T22:15:00Z",
+                                                "published": "1864-01-01",
+                                                "publisher": "Feedbooks",
+                                                "numberOfPages": 111,
+                                                "subject": [
+                                                        {
+                                                                "name": "Christianity",
+                                                                "code": "FBFIC028000"
+                                                        },
+                                                        {
+                                                                "name": "Christianity",
+                                                                "code": "FBFIC002000"
+                                                        }
+                                                ],
+                                                "description": "An all-Consuming Passion for Jesus"
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
+                                                        "type": "image/png",
+                                                        "height": 110,
+                                                        "width": 146
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/John%20Piper_An%20all%20consuming%20passion%20for%20Jesus_EN.png",
+                                                        "type": "image/png",
+                                                        "height": 346,
+                                                        "width": 260
+                                                }
+                                        ]
                                 }
                         ]
                 },
+
+
 
 
 
