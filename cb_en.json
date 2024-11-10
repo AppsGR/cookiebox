@@ -61,24 +61,6 @@
                                 }
                         ]
                 },
-                {
-                        "metadata": {
-                                "title": "More Navigation"
-                        },
-                        "navigation": [
-                                {
-                                        "href": "https://test.opds.io/2.0/home.json",
-                                        "title": "French books",
-                                        "type": "application/opds+json"
-                                },
-                                {
-                                        "href": "https://test.opds.io/2.0/home.json",
-                                        "title": "English Books",
-                                        "type": "application/opds+json"
-                                }
-                        ]
-                },
-
 
 
 
