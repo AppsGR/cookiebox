@@ -2,27 +2,35 @@
   "metadata": {
     "title": "Library"
   },
-
   "links": [
-    {"rel": "self", "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json", "type": "application/json"}
+    {
+      "rel": "self",
+      "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/books22.json",
+      "type": "application/json"
+    }
   ],
-
-
   "groups": [
     {
       "metadata": {
-        "title": "French Classics 2",
-        "numberOfItems": 5
+        "title": "Our English Books",
+        "numberOfItems": 2
       },
       "links": [
-        {"rel": "self", "href": "https://test.opds.io/2.0/publications.json", "type": "application/opds+json"}
+        {
+          "rel": "self",
+          "href": "https://test.opds.io/2.0/publications.json",
+          "type": "application/opds+json"
+        }
       ],
       "publications": [
         {
           "metadata": {
             "@type": "http://schema.org/Book",
             "title": "Voyage au centre de la Terre",
-            "author": {"name": "Jules Verne", "sortAs": "Verne, Jules"},
+            "author": {
+              "name": "Jules Verne",
+              "sortAs": "Verne, Jules"
+            },
             "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
             "language": "fr",
             "modified": "2018-04-23T22:15:00Z",
@@ -49,8 +57,18 @@
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-            {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+            {
+              "href": "https://test.opds.io/assets/centredelaterre/small.jpg",
+              "type": "image/jpeg",
+              "height": 110,
+              "width": 146
+            },
+            {
+              "href": "https://test.opds.io/assets/centredelaterre/normal.jpg",
+              "type": "image/jpeg",
+              "height": 346,
+              "width": 260
+            }
           ]
         },
         {
@@ -75,8 +93,16 @@
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/assets/rougenoir/small.jpg", "type": "image/jpeg", "rel": "http://opds-spec.org/image/thumbnail"},
-            {"href": "https://test.opds.io/assets/rougenoir/normal.jpg", "type": "image/jpeg", "rel": "http://opds-spec.org/image"}
+            {
+              "href": "https://test.opds.io/assets/rougenoir/small.jpg",
+              "type": "image/jpeg",
+              "rel": "http://opds-spec.org/image/thumbnail"
+            },
+            {
+              "href": "https://test.opds.io/assets/rougenoir/normal.jpg",
+              "type": "image/jpeg",
+              "rel": "http://opds-spec.org/image"
+            }
           ]
         },
         {
@@ -84,7 +110,10 @@
             "@type": "http://schema.org/Book",
             "title": "Le Mystère de la chambre jaune",
             "sortAs": "Mystère de la chambre jaune, Le",
-            "author": {"name": "Gaston Leroux", "sortAs": "Leroux, Gaston"},
+            "author": {
+              "name": "Gaston Leroux",
+              "sortAs": "Leroux, Gaston"
+            },
             "identifier": "http://fr.feedbooks.com/book/588/le-myst%C3%A8re-de-la-chambre-jaune",
             "language": "fr",
             "modified": "2018-04-23T22:32:00Z",
@@ -100,15 +129,28 @@
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/assets/chambrejaune/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/assets/chambrejaune/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {
+              "href": "https://test.opds.io/assets/chambrejaune/small.jpg",
+              "type": "image/jpeg",
+              "height": 169,
+              "width": 110
+            },
+            {
+              "href": "https://test.opds.io/assets/chambrejaune/normal.jpg",
+              "type": "image/jpeg",
+              "height": 400,
+              "width": 260
+            }
           ]
         },
         {
           "metadata": {
             "@type": "http://schema.org/Book",
             "title": "Madame Bovary",
-            "author": {"name": "Gustave Flaubert", "sortAs": "Flaubert, Gustave"},
+            "author": {
+              "name": "Gustave Flaubert",
+              "sortAs": "Flaubert, Gustave"
+            },
             "identifier": "http://fr.feedbooks.com/book/386/madame-bovary",
             "language": "fr",
             "modified": "2018-04-23T22:53:00Z",
@@ -124,15 +166,28 @@
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/assets/bovary/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/assets/bovary/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {
+              "href": "https://test.opds.io/assets/bovary/small.jpg",
+              "type": "image/jpeg",
+              "height": 169,
+              "width": 110
+            },
+            {
+              "href": "https://test.opds.io/assets/bovary/normal.jpg",
+              "type": "image/jpeg",
+              "height": 400,
+              "width": 260
+            }
           ]
         },
         {
           "metadata": {
             "@type": "http://schema.org/Book",
             "title": "Du côté de chez Swann",
-            "author": {"name": "Marcel Proust", "sortAs": "Proust, Marcel"},
+            "author": {
+              "name": "Marcel Proust",
+              "sortAs": "Proust, Marcel"
+            },
             "identifier": "http://fr.feedbooks.com/book/4/du-c%C3%B4t%C3%A9-de-chez-swann",
             "language": "fr",
             "modified": "2018-04-23T22:56:00Z",
@@ -154,8 +209,18 @@
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/assets/swann/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/assets/swann/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {
+              "href": "https://test.opds.io/assets/swann/small.jpg",
+              "type": "image/jpeg",
+              "height": 169,
+              "width": 110
+            },
+            {
+              "href": "https://test.opds.io/assets/swann/normal.jpg",
+              "type": "image/jpeg",
+              "height": 400,
+              "width": 260
+            }
           ]
         }
       ]
@@ -165,8 +230,16 @@
         "title": "More Navigation"
       },
       "navigation": [
-        {"href": "https://test.opds.io/2.0/home.json", "title": "French Books", "type": "application/opds+json"},
-        {"href": "https://test.opds.io/2.0/home.json", "title": "English Books", "type": "application/opds+json"}
+        {
+          "href": "https://test.opds.io/2.0/home.json",
+          "title": "French Books",
+          "type": "application/opds+json"
+        },
+        {
+          "href": "https://test.opds.io/2.0/home.json",
+          "title": "English Books",
+          "type": "application/opds+json"
+        }
       ]
     },
     {
@@ -179,7 +252,10 @@
           "metadata": {
             "@type": "http://schema.org/Book",
             "title": "Moby-Dick",
-            "author": {"name": "Herman Melville", "sortAs": "Melville, Herman"},
+            "author": {
+              "name": "Herman Melville",
+              "sortAs": "Melville, Herman"
+            },
             "identifier": "http://www.feedbooks.com/book/54/moby-dick",
             "language": "en",
             "modified": "2018-04-23T23:18:00Z",
@@ -195,15 +271,28 @@
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/assets/moby/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/assets/moby/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {
+              "href": "https://test.opds.io/assets/moby/small.jpg",
+              "type": "image/jpeg",
+              "height": 169,
+              "width": 110
+            },
+            {
+              "href": "https://test.opds.io/assets/moby/normal.jpg",
+              "type": "image/jpeg",
+              "height": 400,
+              "width": 260
+            }
           ]
         },
         {
           "metadata": {
             "@type": "http://schema.org/Book",
             "title": "Romeo and Juliet",
-            "author": {"name": "William Shakespeare", "sortAs": "Shakespeare, William"},
+            "author": {
+              "name": "William Shakespeare",
+              "sortAs": "Shakespeare, William"
+            },
             "identifier": "http://www.feedbooks.com/book/2936/romeo-and-juliet",
             "language": "en",
             "modified": "2018-05-04T19:28:00Z",
@@ -219,15 +308,28 @@
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/assets/romeo/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/assets/romeo/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {
+              "href": "https://test.opds.io/assets/romeo/small.jpg",
+              "type": "image/jpeg",
+              "height": 169,
+              "width": 110
+            },
+            {
+              "href": "https://test.opds.io/assets/romeo/normal.jpg",
+              "type": "image/jpeg",
+              "height": 400,
+              "width": 260
+            }
           ]
         },
         {
           "metadata": {
             "@type": "http://schema.org/Book",
             "title": "Jane Eyre",
-            "author": {"name": "Charlotte Brontë", "sortAs": "Brontë, Charlotte"},
+            "author": {
+              "name": "Charlotte Brontë",
+              "sortAs": "Brontë, Charlotte"
+            },
             "identifier": "http://www.feedbooks.com/book/144/jane-eyre",
             "language": "en",
             "modified": "2018-05-04T19:32:00Z",
@@ -243,8 +345,18 @@
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/assets/eyre/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/assets/eyre/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {
+              "href": "https://test.opds.io/assets/eyre/small.jpg",
+              "type": "image/jpeg",
+              "height": 169,
+              "width": 110
+            },
+            {
+              "href": "https://test.opds.io/assets/eyre/normal.jpg",
+              "type": "image/jpeg",
+              "height": 400,
+              "width": 260
+            }
           ]
         }
       ]
