@@ -23,10 +23,6 @@
                                 }
                         ],
                         "publications": [
-                                {
-                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/jsons/cb_en.json",
-                                        "type": "application/json"
-                                },
 
                                 {
                                         "metadata": {
