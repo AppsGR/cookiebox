@@ -73,23 +73,6 @@
                                 },
                                 {
                                         "metadata": {
-                                                "title": "More Navigation"
-                                        },
-                                        "navigation": [
-                                                {
-                                                        "href": "https://test.opds.io/2.0/home.json",
-                                                        "title": "FR",
-                                                        "type": "application/opds+json"
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/2.0/home.json",
-                                                        "title": "EN",
-                                                        "type": "application/opds+json"
-                                                }
-                                        ]
-                                },
-                                {
-                                        "metadata": {
                                                 "@type": "http://schema.org/Book",
                                                 "title": "Captive to Glory",
                                                 "subtitle": "",
@@ -141,6 +124,14 @@
                                 }
                         ]
                 },
+
+
+
+
+
+
+
+
                 {
                         "metadata": {
                                 "title": "All our books",
@@ -201,9 +192,76 @@
                                                         "width": 260
                                                 }
                                         ]
+                                },
+                                {
+                                        "metadata": {
+                                                "@type": "http://schema.org/Book",
+                                                "title": "Captive to Glory",
+                                                "subtitle": "",
+                                                "sortAs": "Piper, John",
+                                                "author": "John Piper",
+                                                "identifier": "-",
+                                                "language": "en",
+                                                "modified": "2018-04-23T22:25:00Z",
+                                                "published": "1834-01-01",
+                                                "publisher": "",
+                                                "description": ""
+                                        },
+                                        "links": [
+                                                {
+                                                        "rel": "http://opds-spec.org/acquisition/open-access",
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/epubs/JohnPiper_CaptiveToGloryEN.epub",
+                                                        "type": "application/epub+zip"
+                                                }
+                                        ],
+                                        "images": [
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/JohnPiper_CaptiveToGlory.png",
+                                                        "type": "image/jpeg",
+                                                        "rel": "http://opds-spec.org/image/thumbnail"
+                                                },
+                                                {
+                                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/en/johnpiper/covers/JohnPiper_CaptiveToGlory.png",
+                                                        "type": "image/jpeg",
+                                                        "rel": "http://opds-spec.org/image"
+                                                }
+                                        ]
                                 }
                         ]
                 },
+
+
+
+
+
+
+
+                {
+                        "metadata": {
+                                "title": "Test Navigation"
+                        },
+                        "navigation": [
+                                {
+                                        "href": "https://test.opds.io/2.0/home.json",
+                                        "title": "John Piper",
+                                        "type": "application/opds+json"
+                                },
+                                {
+                                        "href": "https://test.opds.io/2.0/home.json",
+                                        "title": "Richard",
+                                        "type": "application/opds+json"
+                                }
+                        ]
+                },
+
+
+
+
+
+
+
+
+
                 {
                         "metadata": {
                                 "title": "English Classics",
