@@ -11,7 +11,7 @@
     ],
     "navigation": [
         {
-            "title": "English books",
+            "title": "English bookss",
             "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
             "type": "application/opds+json"
         },
