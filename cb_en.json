@@ -1,18 +1,8 @@
 {
-        "metadata": {
-                "title": "title L3 - OPDS 2.0 Test Catalog"
-        },
-        "links": [
-                {
-                        "rel": "self",
-                        "href": "https://test.opds.io/2.0/home.json",
-                        "type": "application/opds+json"
-                }
-        ],
         "navigation": [
                 {
                         "href": "https://test.opds.io/2.0/navigation.json",
-                        "title": "title L15 - Explore (Navigation Feed)",
+                        "title": "John Piper",
                         "type": "application/opds+json"
                 },
                 {
