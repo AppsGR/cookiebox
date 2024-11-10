@@ -1,36 +1,19 @@
 {
         "metadata": {
-                "title": "title L3 - OPDS 2.0 Test Catalog"
+                "title": "Library ----------------------------------"
         },
         "links": [
                 {
                         "rel": "self",
-                        "href": "https://test.opds.io/2.0/home.json",
-                        "type": "application/opds+json"
-                }
-        ],
-        "navigation": [
-                {
-                        "href": "https://test.opds.io/2.0/navigation.json",
-                        "title": "title L15 - Explore (Navigation Feed)",
-                        "type": "application/opds+json"
-                },
-                {
-                        "href": "https://test.opds.io/2.0/publications.json",
-                        "title": "title L20 - French Books (Publications Feed)",
-                        "type": "application/opds+json"
-                },
-                {
-                        "href": "https://test.opds.io/2.0/home.json",
-                        "title": "title L25 - Third Link",
-                        "type": "application/opds+json"
+                        "href": "https://raw.githubusercontent.com/AppsGR/cookiebox/RMs/DevBranch/cb_en.json",
+                        "type": "application/json"
                 }
         ],
         "groups": [
                 {
                         "metadata": {
-                                "title": "title L32 - French Classics",
-                                "numberOfItems": 5
+                                "title": "All our books",
+                                "numberOfItems": 4
                         },
                         "links": [
                                 {
@@ -41,198 +24,31 @@
                         ],
                         "publications": [
                                 {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "title L - 46Voyage au centre de la Terre",
-                                                "author": {
-                                                        "name": "AuthName 48 - Jules Verne",
-                                                        "sortAs": "Verne, Jules"
-                                                },
-                                                "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
-                                                "language": "fr",
-                                                "modified": "2018-04-23T22:15:00Z",
-                                                "published": "1864-01-01",
-                                                "publisher": "Feedbooks",
-                                                "numberOfPages": 251,
-                                                "subject": [
-                                                        {
-                                                                "name": "Science Fiction",
-                                                                "code": "FBFIC028000"
-                                                        },
-                                                        {
-                                                                "name": "Name 63 - Action & Aventure",
-                                                                "code": "FBFIC002000"
-                                                        }
-                                                ],
-                                                "description": "Decs 67 - Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://test.opds.io/assets/centredelaterre/file.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://test.opds.io/assets/centredelaterre/small.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 110,
-                                                        "width": 146
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/assets/centredelaterre/normal.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 346,
-                                                        "width": 260
-                                                }
-                                        ]
-                                },
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "Title 94 - Du côté de chez Swann",
-                                                "author": {
-                                                        "name": "Name 96 - Marcel Proust",
-                                                        "sortAs": "Proust, Marcel"
-                                                },
-                                                "identifier": "http://fr.feedbooks.com/book/4/du-c%C3%B4t%C3%A9-de-chez-swann",
-                                                "language": "fr",
-                                                "modified": "2018-04-23T22:56:00Z",
-                                                "published": "1913-01-01",
-                                                "publisher": "Feedbooks",
-                                                "belongsTo": {
-                                                        "series": {
-                                                                "name": "Name 106 - À la recherche du temps perdu",
-                                                                "position": 1
-                                                        }
-                                                },
-                                                "description": "Desc 110 - Du côté de chez Swann est un roman de Marcel Proust, c'est le premier volume de À la recherche du temps perdu. Il est composé de trois parties, dont les titres sont : Combray, Un amour de Swann et Nom de pays : le nom."
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://test.opds.io/assets/swann/file.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://test.opds.io/assets/swann/small.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 169,
-                                                        "width": 110
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/assets/swann/normal.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 400,
-                                                        "width": 260
-                                                }
-                                        ]
+                                        "href": "https://ourlivingfaith.com/wp-content/uploads/cb/jsons/cb_en.json",
+                                        "type": "application/json"
                                 }
                         ]
                 },
                 {
                         "metadata": {
-                                "title": "Title 138 - More Navigation"
+                                "title": "More Navigation"
                         },
                         "navigation": [
                                 {
                                         "href": "https://test.opds.io/2.0/home.json",
-                                        "title": "title 143 - French Books",
+                                        "title": "French Books",
                                         "type": "application/opds+json"
                                 },
                                 {
                                         "href": "https://test.opds.io/2.0/home.json",
-                                        "title": "title 148 - English Books",
+                                        "title": "English Books",
                                         "type": "application/opds+json"
                                 }
                         ]
                 },
                 {
-                        "metadata": {
-                                "title": "title 155 - English Classics",
-                                "numberOfItems": 3
-                        },
-                        "publications": [
-                                {
-                                        "metadata": {
-                                                "@type": "http://schema.org/Book",
-                                                "title": "title 162 - Moby-Dick",
-                                                "author": {
-                                                        "name": "title 164 - Herman Melville",
-                                                        "sortAs": "Melville, Herman"
-                                                },
-                                                "identifier": "http://www.feedbooks.com/book/54/moby-dick",
-                                                "language": "en",
-                                                "modified": "2018-04-23T23:18:00Z",
-                                                "published": "1851-01-01",
-                                                "publisher": "Feedbooks",
-                                                "description": "title 172 - Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
-                                        },
-                                        "links": [
-                                                {
-                                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                                        "href": "https://test.opds.io/assets/moby/file.epub",
-                                                        "type": "application/epub+zip"
-                                                }
-                                        ],
-                                        "images": [
-                                                {
-                                                        "href": "https://test.opds.io/assets/moby/small.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 169,
-                                                        "width": 110
-                                                },
-                                                {
-                                                        "href": "https://test.opds.io/assets/moby/normal.jpg",
-                                                        "type": "image/jpeg",
-                                                        "height": 400,
-                                                        "width": 260
-                                                }
-                                        ]
-                                }
-                        ]
-                }
-        ],
-        "publications": [
-                {
-                        "metadata": {
-                                "@type": "http://schema.org/Book",
-                                "title": "title 203 - Moby-Dick",
-                                "author": {
-                                        "name": "Name 205 - Herman Melville",
-                                        "sortAs": "Melville, Herman"
-                                },
-                                "identifier": "http://www.feedbooks.com/book/54/moby-dick",
-                                "language": "en",
-                                "modified": "2018-04-23T23:18:00Z",
-                                "published": "1851-01-01",
-                                "publisher": "Feedbooks",
-                                "description": "Desc 213 - Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge."
-                        },
-                        "links": [
-                                {
-                                        "rel": "http://opds-spec.org/acquisition/open-access",
-                                        "href": "https://test.opds.io/assets/moby/file.epub",
-                                        "type": "application/epub+zip"
-                                }
-                        ],
-                        "images": [
-                                {
-                                        "href": "https://test.opds.io/assets/moby/small.jpg",
-                                        "type": "image/jpeg",
-                                        "height": 169,
-                                        "width": 110
-                                },
-                                {
-                                        "href": "https://test.opds.io/assets/moby/normal.jpg",
-                                        "type": "image/jpeg",
-                                        "height": 400,
-                                        "width": 260
-                                }
-                        ]
+                        "href": "https://example.com/english-classics.json",
+                        "type": "application/json"
                 }
         ]
 }
