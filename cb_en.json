@@ -9,10 +9,12 @@
             "type": "application/json"
         }
     ],
+
+
     "groups": [
         {
             "metadata": {
-                "title": "French Classics 2 -------------------------",
+                "title": "All our books",
                 "numberOfItems": 4
             },
             "links": [
@@ -23,54 +25,61 @@
                 }
             ],
             "publications": [
+
+
+
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
-                        "title": "Voyage au centre de la Terre",
+                        "title": "An all-Consuming Passion for Jesus",
                         "author": {
-                            "name": "Jules Verne",
-                            "sortAs": "Verne, Jules"
+                            "name": "John Piper",
+                            "sortAs": "Piper, John"
                         },
-                        "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
-                        "language": "fr",
+                        "identifier": "-",
+                        "language": "en",
                         "modified": "2018-04-23T22:15:00Z",
                         "published": "1864-01-01",
                         "publisher": "Feedbooks",
-                        "numberOfPages": 251,
+                        "numberOfPages": 111,
                         "subject": [
                             {
-                                "name": "Science Fiction",
+                                "name": "Christianity",
                                 "code": "FBFIC028000"
                             },
                             {
-                                "name": "Action & Aventure",
+                                "name": "Christianity",
                                 "code": "FBFIC002000"
                             }
                         ],
-                        "description": "Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
+                        "description": "An all-Consuming Passion for Jesus"
                     },
                     "links": [
                         {
                             "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": "https://test.opds.io/assets/centredelaterre/file.epub",
+                            "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20Epub/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en.epub",
                             "type": "application/epub+zip"
                         }
                     ],
                     "images": [
                         {
-                            "href": "https://test.opds.io/assets/centredelaterre/small.jpg",
+                            "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en_cover.png",
                             "type": "image/jpeg",
                             "height": 110,
                             "width": 146
                         },
                         {
-                            "href": "https://test.opds.io/assets/centredelaterre/normal.jpg",
+                            "href": "https://github.com/AppsGR/cookiebox/raw/main/English/John%20Piper/John%20Piper%20-%20PDF/John%20Piper%20-%20an-all-consuming-passion-for-jesus-en_cover.png",
                             "type": "image/jpeg",
                             "height": 346,
                             "width": 260
                         }
                     ]
                 },
+
+
+
+
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
