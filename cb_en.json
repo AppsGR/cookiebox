@@ -1,6 +1,6 @@
 {
         "metadata": {
-                "title": "Library ----------------------------------"
+                "title": "Library"
         },
         "links": [
                 {
@@ -12,7 +12,7 @@
         "groups": [
                 {
                         "metadata": {
-                                "title": "All our books",
+                                "title": "All our English books",
                                 "numberOfItems": 4
                         },
                         "links": [
