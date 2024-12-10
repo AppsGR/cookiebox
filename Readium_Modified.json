@@ -164,7 +164,7 @@
                 {
                     "metadata": {
                         "@type": "http://schema.org/Book",
-                        "title": "title 162 - Moby-Dick",
+                        "title": "title 162 - Moby-bad",
                         "author": {
                             "name": "title 164 - Herman Melville",
                             "sortAs": "Melville, Herman"
@@ -205,7 +205,7 @@
         {
             "metadata": {
                 "@type": "http://schema.org/Book",
-                "title": "title 203 - Moby-Dick",
+                "title": "title 203 - Moby-bad 2",
                 "author": {
                     "name": "Name 205 - Herman Melville",
                     "sortAs": "Melville, Herman"
@@ -233,6 +233,116 @@
                 },
                 {
                     "href": "https://test.opds.io/assets/moby/normal.jpg",
+                    "type": "image/jpeg",
+                    "height": 400,
+                    "width": 260
+                }
+            ]
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "title": "title L - 46Voyage au centre de la Terre",
+                "author": {
+                    "name": "AuthName 48 - Jules Verne",
+                    "sortAs": "Verne, Jules"
+                },
+                "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
+                "language": "fr",
+                "modified": "2018-04-23T22:15:00Z",
+                "published": "1864-01-01",
+                "publisher": "Feedbooks",
+                "numberOfPages": 251,
+                "subject": [
+                    {
+                        "name": "Science Fiction",
+                        "code": "FBFIC028000"
+                    },
+                    {
+                        "name": "Name 63 - Action & Aventure",
+                        "code": "FBFIC002000"
+                    }
+                ],
+                "description": "Decs 67 - Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
+            },
+            "links": [
+                {
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://test.opds.io/assets/centredelaterre/file.epub",
+                    "type": "application/epub+zip"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://test.opds.io/assets/centredelaterre/small.jpg",
+                    "type": "image/jpeg",
+                    "height": 110,
+                    "width": 146
+                },
+                {
+                    "href": "https://test.opds.io/assets/centredelaterre/normal.jpg",
+                    "type": "image/jpeg",
+                    "height": 346,
+                    "width": 260
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "title": "Title 94 - Du côté de chez Swann",
+                "author": {
+                    "name": "Name 96 - Marcel Proust",
+                    "sortAs": "Proust, Marcel"
+                },
+                "identifier": "http://fr.feedbooks.com/book/4/du-c%C3%B4t%C3%A9-de-chez-swann",
+                "language": "fr",
+                "modified": "2018-04-23T22:56:00Z",
+                "published": "1913-01-01",
+                "publisher": "Feedbooks",
+                "belongsTo": {
+                    "series": {
+                        "name": "Name 106 - À la recherche du temps perdu",
+                        "position": 1
+                    }
+                },
+                "description": "Desc 110 - Du côté de chez Swann est un roman de Marcel Proust, c'est le premier volume de À la recherche du temps perdu. Il est composé de trois parties, dont les titres sont : Combray, Un amour de Swann et Nom de pays : le nom."
+            },
+            "links": [
+                {
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://test.opds.io/assets/swann/file.epub",
+                    "type": "application/epub+zip"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://test.opds.io/assets/swann/small.jpg",
+                    "type": "image/jpeg",
+                    "height": 169,
+                    "width": 110
+                },
+                {
+                    "href": "https://test.opds.io/assets/swann/normal.jpg",
                     "type": "image/jpeg",
                     "height": 400,
                     "width": 260
