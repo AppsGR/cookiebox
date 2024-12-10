@@ -205,7 +205,7 @@
         {
             "metadata": {
                 "@type": "http://schema.org/Book",
-                "title": "title 203 - Moby-bad 2",
+                "title": "title 203-3 - Moby-bad 2",
                 "author": {
                     "name": "Name 205 - Herman Melville",
                     "sortAs": "Melville, Herman"

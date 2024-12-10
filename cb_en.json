@@ -190,7 +190,7 @@
                 {
                         "metadata": {
                                 "@type": "http://schema.org/Book",
-                                "title": "title 203 - Moby-Dick",
+                                "title": "title 203-2 - Moby-Dick",
                                 "author": {
                                         "name": "Name 205 - Herman Melville",
                                         "sortAs": "Melville, Herman"
